@@ -1,1 +1,1 @@
-all (actually not) my leetcode 
+created repo for leetcode just to practice some git
