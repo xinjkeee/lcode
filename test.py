@@ -1,0 +1,1 @@
+import ast num = "{'a': 1, 'b': 2}" number_object = ast.literal_eval(num) print(number_object) print(type(number_object))
